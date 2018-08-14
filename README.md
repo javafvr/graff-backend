@@ -1,1 +1,3 @@
-# graff-backend
+# graff - site backend
+MVC - structure
+backend - PHP
